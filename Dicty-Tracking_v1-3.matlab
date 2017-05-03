@@ -1,7 +1,7 @@
 %-------------------------------------------------------------------------%
 % DICTY TRACKING v1.3
 %-------------------------------------------------------------------------%
-% by Christof Litschko (litschko.christof@gmail.com)
+% by Christof Litschko
 %-------------------------------------------------------------------------%
 
 % The follwoing MATLAB code allows semi-automatic tracking of
@@ -341,7 +341,7 @@ clearvars -except num_images stats9s tracks to_track_Xs frames filename name
 prompt = {'time interval:', 'time unit:', 'pixelsize:', 'unit:'};
 dlg_title = 'DICTY TRACKING | Parameters for data export';
 num_lines = [1 65];
-defaultans ={'', 's', '', 'µm'};
+defaultans ={'', 's', '', 'Âµm'};
 answer = inputdlg(prompt,dlg_title,num_lines,defaultans,'on');
 time_int = str2num(answer{1});
 time_unit = answer{2};
@@ -384,17 +384,17 @@ end
 
 waitbar(3 / 11)    
     
-% --- generate columns (4) & (5): "X" and "Y" in µm ---
+% --- generate columns (4) & (5): "X" and "Y" in Âµm ---
 all_tracks_XsYs = [];
 for i=1:length(to_track_Xs)
-    currtrack = getfield(tracks, sprintf('cell_%d', i)) * px_size; %µm calculation
+    currtrack = getfield(tracks, sprintf('cell_%d', i)) * px_size; %Âµm calculation
     all_tracks_XsYs=vertcat(all_tracks_XsYs, currtrack);
 end
     clear currtrack
 
 waitbar(4 / 11)    
     
-% --- generate column (6): "D2P" (distance between consecutive points, stepsize) in µm ---
+% --- generate column (6): "D2P" (distance between consecutive points, stepsize) in Âµm ---
 stepsize = [];
 for i=1:length(to_track_Xs)
     % --- for first frame, step size is not a number (NaN) ---
@@ -422,7 +422,7 @@ end
 
 waitbar(5 / 11)   
     
-% --- generate column (7): "Len" (length of track) in µm ---
+% --- generate column (7): "Len" (length of track) in Âµm ---
 Len = [];
 for i=1:length(to_track_Xs)
     % --- for first frame, length of whole track is zero ---
@@ -442,7 +442,7 @@ end
 
 waitbar(6 / 11)    
     
-% --- generate column (8): "D2S" (direct distance to start, beeline) in µm ---
+% --- generate column (8): "D2S" (direct distance to start, beeline) in Âµm ---
 D2S = [];
 for i=1:length(to_track_Xs)
     % --- for first frame, step size is not a number (NaN) ---
@@ -466,7 +466,7 @@ end
 
 waitbar(7 / 11)    
     
-% --- generate column (9): "v" (instantaneous velocity) in µm/time unit ---
+% --- generate column (9): "v" (instantaneous velocity) in Âµm/time unit ---
 v = [];
 for i=1:length(to_track_Xs)
     % --- for first frame, step size is not a number (NaN) ---
