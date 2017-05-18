@@ -3,7 +3,7 @@ A free, easy-to-use, standalone tool for semi-automatic tracking of migrating Di
 
 The software and associated files are licensed under the [MIT license](LICENSE).
 
-The tool is provided as a downloadable [.zip package](Dicty-Tracking.zip) containing sample image series and additional Excel workbooks for further analysis. See the [user guide](Dicty-Tracking-User-Guide.pdf) for a detailed description.
+The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the [user guide](Dicty-Tracking-User-Guide.pdf) for a detailed description. [Download Dicty Tracking](https://github.com/ChristofLitschko/Dicty-Tracking/archive/v1.3.zip).
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
