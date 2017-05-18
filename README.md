@@ -1,7 +1,7 @@
 # Dicty-Tracking
 A free, easy-to-use, standalone tool for semi-automatic tracking of migrating Dictyostelium discoideum cells from phase-contrast time-lapse image series based on MATLAB®.
 
-The software and associated files are licensed under the [MIT license](LICENSE).
+The software and associated files are licensed under the [MIT license](LICENSE). Please cite https://doi.org/10.5281/zenodo.581218 if you use Dicty Tracking.
 
 The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the [user guide](Dicty-Tracking-User-Guide.pdf) for a detailed description. **[Download Dicty Tracking](https://github.com/ChristofLitschko/Dicty-Tracking/raw/86d1fa9d7eac402cc1265e77c72b3d587e9c7817/Dicty-Tracking.zip)**.
 
