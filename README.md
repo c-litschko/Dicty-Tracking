@@ -3,7 +3,7 @@ Dicty Tracking is a free, fast and easy-to-use, standalone tool for semi-automat
 
 The software and associated files are licensed under the [MIT license](LICENSE). If you publish results generated with Dicty Tracking and/or associated files, please cite https://doi.org/10.5281/zenodo.581218.
 
-The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/raw/master/Dicty-Tracking-User-Guide.pdf) for a detailed description. **[Download the latest release of Dicty Tracking](https://github.com/ChristofLitschko/Dicty-Tracking/archive/v1.3.zip)**.
+The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/raw/master/Dicty-Tracking-User-Guide.pdf) for a detailed description. **[Download the latest release of Dicty Tracking](https://github.com/ChristofLitschko/Dicty-Tracking/archive/v1.3.2.zip)**.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
