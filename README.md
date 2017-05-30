@@ -1,9 +1,11 @@
 # Dicty-Tracking
-Dicty Tracking is a free, fast and easy-to-use, standalone tool for semi-automatic tracking of migrating Dictyostelium cells from phase-contrast time-lapse image series based on MATLAB®. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
+[![](https://img.shields.io/badge/DOI%3A-10.6084%2Fm9.figshare.5024552-blue.svg)](https://doi.org/10.6084/m9.figshare.5024552) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/LICENSE)
+-----------------------------------------------------------------------------------------------------------------------------------
+Dicty Tracking is a free, fast and easy-to-use standalone tool for semi-automatic tracking of migrating Dictyostelium cells from phase-contrast time-lapse image series based on MATLAB®. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
 
 The software and associated files are licensed under the [MIT license](LICENSE). If you publish results generated with Dicty Tracking and/or associated files, please cite the **[Dicty Tracking article on figshare](https://doi.org/10.6084/m9.figshare.5024552)**.
 
-The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the **[user guide](https://github.com/ChristofLitschko/Dicty-Tracking/raw/master/Dicty-Tracking-User-Guide.pdf)** for a detailed description. **[Download the latest release of Dicty Tracking](https://github.com/ChristofLitschko/Dicty-Tracking/archive/v1.3.zip)**.
+The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the **[user guide](https://github.com/ChristofLitschko/Dicty-Tracking/raw/master/Dicty-Tracking-User-Guide.pdf)** for a detailed description. **[Download the latest release of Dicty Tracking](https://ndownloader.figshare.com/files/8482148)**.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
