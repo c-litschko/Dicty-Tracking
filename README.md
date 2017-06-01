@@ -23,5 +23,5 @@ Ax2 wild-type Dictyostelium cells confined by a 0.17 nm 1.5% agarose slice track
 
 ### Video Tutorial
 
-A video tutorial for Dicty Tracking is available at vimeo.com.  
+A short video tutorial (about 3 minutes) for Dicty Tracking is available at **[vimeo.com](https://vimeo.com/219859828)**.  
 [![](http://i.imgur.com/aYCjlo7m.png?1)](https://vimeo.com/219859828 "Dicty Tracking Video Tutorial at vimeo.com - Click to Watch!")
