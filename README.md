@@ -13,7 +13,7 @@ The tool and/or associated files were used in the following works:
 
 The software and associated files are licensed under the [MIT license](LICENSE). If you publish results generated with Dicty Tracking and/or associated files, please cite the Dicty Tracking article on **[figshare](https://doi.org/10.6084/m9.figshare.5024552)**.
 
-The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the **[user guide](https://github.com/ChristofLitschko/Dicty-Tracking/raw/master/Dicty-Tracking-User-Guide.pdf)** for a detailed description. Download the latest release of Dicty Tracking from **[figshare](https://ndownloader.figshare.com/files/8482148)**.
+The tool is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. See the **[user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf)** for a detailed description. Download the latest release of Dicty Tracking from **[figshare](https://ndownloader.figshare.com/files/8482148)**.
 
 ---
 
