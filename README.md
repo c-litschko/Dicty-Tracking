@@ -11,6 +11,8 @@ The tool and it's associated files are licensed under the [MIT license](LICENSE)
 
 *Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552*
 
+See the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf) for more information.
+
 ---
 
 ### Tracking examples
