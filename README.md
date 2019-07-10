@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/DOI%3A-10.6084%2Fm9.figshare.5024552-blue.svg)](https://doi.org/10.6084/m9.figshare.5024552) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/LICENSE)
 
 ---
-(#some-markdown-heading)
+
 ### About
 
 Dicty Tracking is a free, fast and easy-to-use standalone tool for semi-automatic tracking of migrating Dictyostelium cells from phase-contrast time-lapse image series based on MATLAB®. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
