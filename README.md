@@ -1,6 +1,7 @@
 # Dicty-Tracking
 [![](https://img.shields.io/badge/DOI%3A-10.6084%2Fm9.figshare.5024552-blue.svg)](https://doi.org/10.6084/m9.figshare.5024552) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/LICENSE)
 
+![tracking-example](https://i.imgur.com/rpbUimn.gifv)
 ---
 
 #### Table of Contents
@@ -43,10 +44,10 @@ A more detailed description of *Dictyostelium* cell tracking and subsequent migr
 ### Tracking examples
 
 ![alt text](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/demo-movies/demo-mov-unconfined.gif) <br />
-Freely (unconfined) and randomly migrating Ax2 wild-type Dictyostelium cells tracked with Dicty Tracking
+Freely (unconfined) and randomly migrating Ax2 wild-type *Dictyostelium* cells tracked with Dicty Tracking
 
 ![alt text](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/demo-movies/demo-mov-confined.gif) <br />
-Ax2 wild-type Dictyostelium cells confined by a 0.17 nm 1.5% agarose slice tracked with Dicty Tracking
+Ax2 wild-type *Dictyostelium* cells confined by a 0.17 nm 1.5% agarose slice tracked with Dicty Tracking
 
 ---
 
