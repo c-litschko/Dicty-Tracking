@@ -23,11 +23,11 @@ dilation and erosion steps Dicty tracking is able to efficiently detect cell bod
 * **Quality control and cell selection**: the accuracy of cell body detection can be checked by the user in Fiji/ImageJ. Afterwards, a graphical user interface (GUI) allows the selection of cells that should be tracked by the algorithm. Usually, some cells have to be excluded from analyses due to collision, division or because they leave the field of view.
 * **Cell tracking and data export**: the Dicty Tracking algorithm tracks the selected cells by connecting the centroids of a cell at each time point of the image series. Dicty Tracking generates a .tif stack with differently colored cell tracks and saves the following parameters of each tracked cell at each time point into an Excel sheet:
   * x and y position
-  * distance to previous point (D2pP, step size)
-  * overall track length (Len)
-  * direct distance to the starting point (distance to start, D2S)
-  * instantaneous velocity (v)
-  * instantaneous angle (angle between the displacement vector and the x-axis)
+  * distance to previous point (step size)
+  * overall track length
+  * direct distance to the starting point
+  * instantaneous velocity
+  * instantaneous angle (angle between the displacement vector and the x-axis, see [**user guide**](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf) for more details)
   * turning angle (difference of subsequent instantaneous angles)
   * the cosine of the turning angle.
 * **Further analyses**: Dicty Tracking comes with additional VBA-based Excel workbooks allowing the calculation of
@@ -63,7 +63,11 @@ The code behind Dicty Tracking is stored in the subrepository [source-code](http
   * [Dicty_tracking_v1_3.m](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty_tracking_v1_3.m)
 * **VBA code of associated Excel workbooks**
   * [trajectories.vb](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty-Tracking-Evaluation/trajectories.vb): shifts the trajectories of all tracked cells to the origin (for generation of trajectory plots)
-
+  * [speed.vb](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty-Tracking-Evaluation/speed.vb): calculates mean speed of all tracked cells of an image series
+  * [dir ratio.vb](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty-Tracking-Evaluation/dir%20ratio.vb): 
+calculates mean dir ratio of all tracked cells of an image series
+  * [MSD preparation.vb](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty-Tracking-Evaluation/MSD%20preparation.vb): prepares tracking data for import into MSD calculation workbook
+  
 ---
 
 ### License
