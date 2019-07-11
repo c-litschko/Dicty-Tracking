@@ -50,7 +50,7 @@ Window for setting of the cell detection parameters
 ![Fig. 2](https://i.imgur.com/UwpK6pW.png) <br />
 Control of cell detection using Fiji/ImageJ
 
-![Fig. 3](https://i.imgur.com/KxlBY8Dt.png) <br />
+![Fig. 3](https://i.imgur.com/KxlBY8Dm.png) <br />
 GUI for selection of cells that should be tracked
 
 ![unconfined](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/demo-movies/demo-mov-unconfined.gif) <br />
