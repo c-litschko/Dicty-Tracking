@@ -6,12 +6,16 @@
 #### Table of Contents
 * [About](#about)
 * [Tracking examples](#tracking-examples)
+* [Video Tutorial](#video-tutorial)
+* [License](#license)
+* [How to cite](#how-to-cite)
+* [Dicty Tracking in the literature](#dicty-tracking-in-the-literature)
 
 ---
 
 ### About
 
-Dicty Tracking is a MATLAB®-based standalone tool developed for semi-automatic tracking of migrating *Dictyostelium* cells from phase-contrast time-lapse image series. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
+**Dicty Tracking** is a MATLAB®-based standalone tool developed for semi-automatic tracking of migrating *Dictyostelium* cells from phase-contrast time-lapse image series. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
 
 #### How it works
 * **Cell detection**: using the Sobel operator implemented in MATLAB®’s Image Processing Toolbox as well as subsequent
