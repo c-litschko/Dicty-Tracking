@@ -20,10 +20,13 @@ dilation and erosion steps Dicty tracking is able to efficiently detect cell bod
   * instantaneous angle (angle between the displacement vector and the x-axis)
   * turning angle (difference of subsequent instantaneous angles)
   * the cosine of the turning angle.
+* **Further analyses**: Dicty Tracking comes with additional VBA-based Excel workbooks allowing the calculation of
+  * mean speed
+  * directionality ratio
+  * mean squared displacement (MSD).
+Please see the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf) for detailed information.
 
-Dicty tracking is provided as a .zip package containing additional VBA-based Excel workbooks for further analyses 
-
-The tool and it's associated files are licensed under the [MIT license](LICENSE). It is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. The complete fileset is publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)** and can be cited as:
+The tool and it's associated files incuding Excels workbooks for further analyses, a user guide and sample movies are licensed under the [MIT license](LICENSE). It is is publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)** and can be cited as:
 
 *Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552*
 
