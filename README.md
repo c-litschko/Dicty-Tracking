@@ -1,6 +1,9 @@
 # Dicty-Tracking
 [![](https://img.shields.io/badge/DOI%3A-10.6084%2Fm9.figshare.5024552-blue.svg)](https://doi.org/10.6084/m9.figshare.5024552) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/LICENSE)
 
+### Table of Contents
+[About](#about)
+
 ---
 
 ### About
@@ -54,9 +57,9 @@ The tool and it's associated files including Excels workbooks, the user guide an
 
 ### How to cite
 
-The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)**. Its DOI is [10.6084/m9.figshare.5024552](https://doi.org/10.6084/m9.figshare.5024552) and it can be cited as:
+The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)**. Its DOI is [10.6084/m9.figshare.5024552](https://doi.org/10.6084/m9.figshare.5024552) and can be cited as
 
-> Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. [https://doi.org/10.6084/m9.figshare.5024552]()
+> Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552
 
 ---
 
