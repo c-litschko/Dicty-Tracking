@@ -44,7 +44,7 @@ A more detailed description of *Dictyostelium* cell tracking and subsequent migr
 
 ### Screenshots and tracking examples
 
-![user guide Fig. 1](https://i.imgur.com/u5sqobum.png) <br />
+[![user guide Fig. 1](https://i.imgur.com/u5sqobum.png)](https://i.imgur.com/u5sqobu.png) <br />
 Window for setting of the cell detection parameters
 
 ![user guide Fig. 2](https://i.imgur.com/UwpK6pWm.png) <br />
