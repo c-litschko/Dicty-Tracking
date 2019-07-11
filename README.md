@@ -1,7 +1,7 @@
 # Dicty-Tracking
 [![](https://img.shields.io/badge/DOI%3A-10.6084%2Fm9.figshare.5024552-blue.svg)](https://doi.org/10.6084/m9.figshare.5024552) [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/LICENSE)
 
-![tracking-examples-combined](https://i.imgur.com/rpbUimn.gif)
+![tracking-examples-combined](https://i.imgur.com/rpbUimn.gifv)
 
 ---
 
