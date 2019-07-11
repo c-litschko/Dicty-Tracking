@@ -25,7 +25,9 @@ dilation and erosion steps Dicty tracking is able to efficiently detect cell bod
   * directionality ratio
   * mean squared displacement (MSD).
 
-A more detailed description of *Dictyostelium* cell tracking and subsequent migration analysis with Dicty Tracking is provided in the [**user guide**](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf)
+A more detailed description of *Dictyostelium* cell tracking and subsequent migration analysis with Dicty Tracking is provided in the [**user guide**](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf).
+
+---
 
 ### Tracking examples
 
@@ -50,13 +52,11 @@ The tool and it's associated files including Excels workbooks, the user guide an
 
 ---
 
-### Figshare
+### How to cite
 
-The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)** and can be cited as:
+The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)**. Its DOI is [10.6084/m9.figshare.5024552](https://doi.org/10.6084/m9.figshare.5024552) and it can be cited as:
 
-*Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552*
-
-See the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf) for more information.
+> Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552
 
 ---
 
