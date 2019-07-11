@@ -15,7 +15,7 @@
 
 ### About
 
-**Dicty Tracking** is a MATLAB®-based standalone tool developed for semi-automatic tracking of migrating *Dictyostelium* cells from phase-contrast time-lapse image series. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
+**Dicty Tracking** is a MATLAB®-based standalone tool developed for semi-automatic tracking of migrating *Dictyostelium discoideum* cells from phase-contrast time-lapse image series. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
 
 #### How it works
 * **Cell detection**: using the Sobel operator implemented in MATLAB®’s Image Processing Toolbox as well as subsequent
@@ -64,7 +64,7 @@ The tool and it's associated files including Excels workbooks, the user guide an
 
 ### How to cite
 
-The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)**. Its DOI is [10.6084/m9.figshare.5024552](https://doi.org/10.6084/m9.figshare.5024552) and can be cited as
+The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)**. It's attributed digital object identifier (DOI) is [10.6084/m9.figshare.5024552](https://doi.org/10.6084/m9.figshare.5024552). Dicty Tracking can be cited as
 
 > Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552
 
@@ -75,3 +75,4 @@ The Dicty Tracking fileset is also publically available on **[figshare](https://
 Dicty Tracking  and/or associated files were used in the following research papers:
 * Litschko C, Brühmann S, Csiszár A, Stephan T, Dimchev V, Damiano-Guercio J, Junemann A, Körber S, Winterhoff M, Nordholz B, Ramalingam N, Peckham M, Rottner K, Merkel R, Faix J. (2019) Functional integrity of the contractile actin cortex is safeguarded by multiple Diaphanous-related formins. *Proc Natl Acad Sci U S A* 116(9):3594-3603. https://doi.org/10.1073/pnas.1821638116
 * Litschko C, Linkner J, Brühmann S, Stradal TEB, Reinl T, Jänsch L, Rottner K, Faix J. (2017) Differential functions of WAVE regulatory complex subunits in the regulation of actin-driven processes. *Eur J Cell Biol.* 96(8):715-727. https://doi.org/10.1016/j.ejcb.2017.08.003
+* Latham SL, Ehmke N, Reinke PYA, Taft MH, Eicke D, Reindl T, Stenzel W, Lyons MJ, Friez MJ, Lee JA, Hecker R, Frühwald MC, Becker K, Neuhann TM, Horn D, Schrock E, Niehaus I, Sarnow K, Grützmann K, Gawehn L, Klink B, Rump A, Chaponnier C, Figueiredo C, Knöfler R, Manstein DJ, Di Donato N (2018) Variants in exons 5 and 6 of ACTB cause syndromic thrombocytopenia. *Nat Commun.* 9(1):4250. https://doi.org/10.1038/s41467-018-06713-0
