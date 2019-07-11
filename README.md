@@ -5,7 +5,15 @@
 
 ### About
 
-Dicty Tracking is a free, fast and easy-to-use standalone tool for semi-automatic tracking of migrating Dictyostelium cells from phase-contrast time-lapse image series based on MATLAB®. It requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
+Dicty Tracking is a MATLAB®-based standalone tool developed for semi-automatic tracking of migrating *Dictyostelium* cells from phase-contrast time-lapse image series. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
+
+* **Cell detection**: using the Sobel operator implemented in MATLAB®’s Image Processing Toolbox as well as subsequent
+dilation and erosion steps Dicty tracking is able to efficiently detect cell bodies of migrating *Dictyostelium* cells from phase-contrast images. The adjustment of several parameters affecting accuracy of cell body detection is possible and might be necessary in some cases.
+* **Quality control and cell selection**: the accuracy of cell body detection can be checked by the user in Fiji/ImageJ. Afterwards, a graphical user interface (GUI) allows the selection of cells that should be tracked by the algorithm. Usually, some cells have to be excluded from analyses due to collision, division or because they leave the field of view.
+3. **Cell tracking and data export**: the Dicty Tracking algorithm tracks the selected cells by connecting the centroids of a cell at each time point of the image series. Dicty Tracking generates a .tif stack with differently colored cell tracks and saves the following parameters at eacht time point into an Excel sheet:
+  * Test
+
+Dicty tracking is provided as a .zip package containing additional VBA-based Excel workbooks for further analyses 
 
 The tool and it's associated files are licensed under the [MIT license](LICENSE). It is provided as a .zip package containing sample image series and additional Excel workbooks for further analysis. The complete fileset is publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)** and can be cited as:
 
