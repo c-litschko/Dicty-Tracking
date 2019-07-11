@@ -47,16 +47,16 @@ A more detailed description of *Dictyostelium* cell tracking and subsequent migr
 [![user guide Fig. 1](https://i.imgur.com/u5sqobum.png)](https://i.imgur.com/u5sqobu.png) <br />
 Window for setting of the cell detection parameters
 
-![user guide Fig. 2](https://i.imgur.com/UwpK6pWm.png) <br />
+[![user guide Fig. 2](https://i.imgur.com/UwpK6pWm.png)](https://i.imgur.com/UwpK6pW.png) <br />
 Control of cell detection using Fiji/ImageJ
 
-![user guide Fig. 3](https://i.imgur.com/KxlBY8Dm.png) <br />
+[![user guide Fig. 3](https://i.imgur.com/KxlBY8Dm.png)](https://i.imgur.com/KxlBY8D.png) <br />
 GUI for selection of cells that should be tracked
 
-![user guide Fig. 5](https://i.imgur.com/LRYkFL4m.png) <br />
+[![user guide Fig. 5](https://i.imgur.com/LRYkFL4m.png)](https://i.imgur.com/LRYkFL4.png) <br />
 Track data exported into Excel workbook
 
-![user guide Fig. 8](https://i.imgur.com/AE15ZQ4m.png) <br />
+[![user guide Fig. 8](https://i.imgur.com/AE15ZQ4m.png)](https://i.imgur.com/AE15ZQ4.png) <br />
 Calculation of MSD with an associated Excel workbook
 
 ![unconfined](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/demo-movies/demo-mov-unconfined.gif) <br />
