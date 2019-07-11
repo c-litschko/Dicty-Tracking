@@ -7,6 +7,7 @@
 
 Dicty Tracking is a MATLAB®-based standalone tool developed for semi-automatic tracking of migrating *Dictyostelium* cells from phase-contrast time-lapse image series. The tool requires [Fiji/ImageJ](https://imagej.net/Fiji) and the installation of [MATLAB Runtime](https://www.mathworks.com/products/compiler/mcr.html).
 
+#### How it works
 * **Cell detection**: using the Sobel operator implemented in MATLAB®’s Image Processing Toolbox as well as subsequent
 dilation and erosion steps Dicty tracking is able to efficiently detect cell bodies of migrating *Dictyostelium* cells from phase-contrast images. The adjustment of several parameters affecting accuracy of cell body detection is possible and might be necessary in some cases.
 * **Quality control and cell selection**: the accuracy of cell body detection can be checked by the user in Fiji/ImageJ. Afterwards, a graphical user interface (GUI) allows the selection of cells that should be tracked by the algorithm. Usually, some cells have to be excluded from analyses due to collision, division or because they leave the field of view.
