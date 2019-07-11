@@ -61,8 +61,7 @@ A short video tutorial (about 3 minutes) for Dicty Tracking is available at **[v
 
 The code behind Dicty Tracking is stored in the subrepository [source-code](https://github.com/ChristofLitschko/Dicty-Tracking/tree/master/source-code). Quick and direct access to the particular code files is possible via the following links:
 * **MATLAB® code**
-  * [Dicty_tracking_v1_3.m](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty_tracking_v1_3.m)
-
+  * [Dicty_tracking_v1_3.m](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty_tracking_v1_3.m): cell body identification, centroid extraction, cell selection GUI, tracking, data export
 * **VBA code of associated Excel workbooks**
   * [trajectories.vb](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty-Tracking-Evaluation/trajectories.vb): shifts the trajectories of all tracked cells to the origin (for generation of trajectory plots)
   * [speed.vb](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/source-code/Dicty-Tracking-Evaluation/speed.vb): calculates mean speed of all tracked cells of an image series
