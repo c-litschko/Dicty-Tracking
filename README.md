@@ -25,19 +25,7 @@ dilation and erosion steps Dicty tracking is able to efficiently detect cell bod
   * directionality ratio
   * mean squared displacement (MSD).
 
-A more detailed description of *Dictyostelium* cell tracking and subsequent migration analyses with Dicty Tracking is offered in the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf).
-
----
-
-### Download
-
-The tool and it's associated files including Excels workbooks, the user guide and sample movies are licensed under the [MIT license](LICENSE). It is is publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)** and can be cited as:
-
-*Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552*
-
-See the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf) for more information.
-
----
+A more detailed description of *Dictyostelium* cell tracking and subsequent migration analysis with Dicty Tracking is provided in the [**user guide**](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf)
 
 ### Tracking examples
 
@@ -53,6 +41,22 @@ Ax2 wild-type Dictyostelium cells confined by a 0.17 nm 1.5% agarose slice track
 
 A short video tutorial (about 3 minutes) for Dicty Tracking is available at **[vimeo.com](https://vimeo.com/219859828)**.  
 [![](http://i.imgur.com/aYCjlo7m.png?1)](https://vimeo.com/219859828 "Dicty Tracking Video Tutorial at vimeo.com - Click to Watch!")
+
+---
+
+### License
+
+The tool and it's associated files including Excels workbooks, the user guide and sample movies are licensed under the [MIT license](LICENSE).
+
+---
+
+### Figshare
+
+The Dicty Tracking fileset is also publically available on **[figshare](https://figshare.com/articles/Dicty_Tracking_A_standalone_tool_for_fast_and_easy_tracking_of_migrating_Dictyostelium_cells/5024552)** and can be cited as:
+
+*Litschko C (2017) Dicty Tracking: A standalone tool for fast and easy tracking of migrating Dictyostelium cells. figshare. https://doi.org/10.6084/m9.figshare.5024552*
+
+See the [user guide](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/Dicty-Tracking-User-Guide.pdf) for more information.
 
 ---
 
