@@ -7,7 +7,7 @@
 
 ## Table of Contents
 * [About](#about)
-* [Screenshots and tracking examples](#tracking-examples)
+* [Screenshots and tracking examples](#screenshots-and-tracking-examples)
 * [Video Tutorial](#video-tutorial)
 * [Code](#code)
 * [License](#license)
@@ -50,7 +50,7 @@ Window for setting of the cell detection parameters
 ![Fig. 2](https://i.imgur.com/UwpK6pW.png) <br />
 Control of cell detection using Fiji/ImageJ
 
-![Fig. 3](https://i.imgur.com/KxlBY8D.png) <br />
+![Fig. 3](https://i.imgur.com/KxlBY8Dt.png) <br />
 GUI for selection of cells that should be tracked
 
 ![unconfined](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/demo-movies/demo-mov-unconfined.gif) <br />
