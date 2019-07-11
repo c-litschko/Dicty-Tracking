@@ -44,14 +44,20 @@ A more detailed description of *Dictyostelium* cell tracking and subsequent migr
 
 ## Screenshots and tracking examples
 
-![Fig. 1](https://i.imgur.com/u5sqobu.png) <br />
+![user guide Fig. 1](https://i.imgur.com/u5sqobum.png) <br />
 Window for setting of the cell detection parameters
 
-![Fig. 2](https://i.imgur.com/UwpK6pW.png) <br />
+![user guide Fig. 2](https://i.imgur.com/UwpK6pWm.png) <br />
 Control of cell detection using Fiji/ImageJ
 
-![Fig. 3](https://i.imgur.com/KxlBY8Dm.png) <br />
+![user guide Fig. 3](https://i.imgur.com/KxlBY8Dm.png) <br />
 GUI for selection of cells that should be tracked
+
+![user guide Fig. 5](https://i.imgur.com/LRYkFL4m.png) <br />
+Track data exported into Excel workbook
+
+![user guide Fig. 8](https://i.imgur.com/AE15ZQ4m.png) <br />
+Calculation of MSD with an associated Excel workbook
 
 ![unconfined](https://github.com/ChristofLitschko/Dicty-Tracking/blob/master/demo-movies/demo-mov-unconfined.gif) <br />
 Freely (unconfined) and randomly migrating Ax2 wild-type *Dictyostelium* cells tracked with Dicty Tracking
@@ -95,6 +101,10 @@ Dicty Tracking  and/or associated files were used in the following research pape
 * Litschko C, Brühmann S, Csiszár A, Stephan T, Dimchev V, Damiano-Guercio J, Junemann A, Körber S, Winterhoff M, Nordholz B, Ramalingam N, Peckham M, Rottner K, Merkel R, Faix J. (2019) Functional integrity of the contractile actin cortex is safeguarded by multiple Diaphanous-related formins. *Proc Natl Acad Sci U S A* 116(9):3594-3603. https://doi.org/10.1073/pnas.1821638116
 * Litschko C, Linkner J, Brühmann S, Stradal TEB, Reinl T, Jänsch L, Rottner K, Faix J. (2017) Differential functions of WAVE regulatory complex subunits in the regulation of actin-driven processes. *Eur J Cell Biol.* 96(8):715-727. https://doi.org/10.1016/j.ejcb.2017.08.003
 * Latham SL, Ehmke N, Reinke PYA, Taft MH, Eicke D, Reindl T, Stenzel W, Lyons MJ, Friez MJ, Lee JA, Hecker R, Frühwald MC, Becker K, Neuhann TM, Horn D, Schrock E, Niehaus I, Sarnow K, Grützmann K, Gawehn L, Klink B, Rump A, Chaponnier C, Figueiredo C, Knöfler R, Manstein DJ, Di Donato N (2018) Variants in exons 5 and 6 of ACTB cause syndromic thrombocytopenia. *Nat Commun.* 9(1):4250. https://doi.org/10.1038/s41467-018-06713-0
+
+Dicty Tracking is furthermore described in a method chapter about the analysis of *Dictyostelium* random migration. This chapter also provides detailed information about confined and unconfined sample prapartion, image acquisition and helpful hints:
+
+* Litschko C, Damiano-Guercio J, Brühmann S, Faix J (2018) Analysis of Random Migration of Dictyostelium Amoeba in Confined and Unconfined Environments. *Methods Mol Biol.* 1749:341-350. https://doi.org/10.1007/978-1-4939-7701-7_24
 
 ---
 
